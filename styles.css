@@ -9,7 +9,7 @@ p1{
 }
 
 p2{
-	background:yellow;
+	background:red;
 	border-width: 1px;
 	border-style:solid;
 	border-color:green;
@@ -17,7 +17,7 @@ p2{
 }
 
 p3{
-	background:red;
+	background:green;
 	border-width: 1px;
 	border-style:solid;
 	border-color:green;
