@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
-p1{
+#yellow{
 	background:yellow;
 	border-width: 1px;
 	border-style:solid;
@@ -8,7 +8,9 @@ p1{
 	
 }
 
-p2{
+
+
+#red{
 	background:red;
 	border-width: 1px;
 	border-style:solid;
@@ -16,7 +18,7 @@ p2{
 	
 }
 
-p3{
+#green{
 	background:green;
 	border-width: 1px;
 	border-style:solid;
